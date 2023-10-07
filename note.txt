@@ -1,0 +1,17 @@
+jquery plugin
+mixitup plugin
+jqueyscript,net
+accordin faq section
+Isotope plugin filtering plugin
+
+search result research demo doc
+
+file linkup
+    css + js jquery
+markup - html
+style - css - new/removw/custom
+activation - js/jq
+
+
+wow js load more
+aos plugin

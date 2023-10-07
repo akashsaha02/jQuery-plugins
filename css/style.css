@@ -1,0 +1,24 @@
+.box {
+    min-height: 500px;
+    margin: 50px;
+}
+
+.counter {
+    padding: 40px;
+}
+
+.counter2,
+.counter3,
+.counter4 {
+    padding: 50px;
+}
+
+.example {
+    width: 700px;
+    margin: 50px auto;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
